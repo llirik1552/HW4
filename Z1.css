@@ -1,0 +1,16 @@
+
+.small {
+        font-size:small;
+    }
+        .normal {
+        font-size:medium;
+    }
+        .large {
+        font-size:x-large;
+        }
+        body {
+    font-size: 36px;
+}
+p.bold {
+    font-style: bold;
+}
